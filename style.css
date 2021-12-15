@@ -53,7 +53,7 @@ nav img,
 
 nav.section-1_nav,
 nav.section-2_nav {
-  font-family: "Lato";
+  font-family: 'Lato', sans-serif;
   font-size: 12px;
   font-weight: 900;
   font-stretch: normal;
@@ -118,7 +118,7 @@ li {
 }
 
 .section-1_heading {
-  font-family: "Bebas Neue";
+  font-family: 'Bebas Neue', cursive;
   font-weight: normal;
   line-height: 1.08;
   text-align: center;
@@ -152,7 +152,7 @@ li {
 }
 
 .section-2_logoWrapper h2 {
-  font-family: "Bebas Neue";
+  font-family: 'Bebas Neue', cursive;
   font-weight: normal;
   line-height: 1.1;
   font-style: normal;
@@ -204,7 +204,7 @@ nav.section-2_nav {
 }
 
 .section-2_number {
-  font-family: "Oswald";
+  font-family: 'Oswald', sans-serif;
   font-size: 13.3rem;
   font-weight: bold;
   font-stretch: normal;
@@ -216,7 +216,7 @@ nav.section-2_nav {
 }
 
 .section-2_title {
-  font-family: "Oswald";
+  font-family: 'Oswald', sans-serif;
   font-size: 3.2rem;
   font-weight: bold;
   font-stretch: normal;
@@ -231,7 +231,7 @@ nav.section-2_nav {
 }
 
 .section-2_desc {
-  font-family: "Lato";
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
   font-weight: 300;
   font-stretch: normal;
@@ -314,7 +314,7 @@ nav.section-2_nav {
 }
 
 .section-4_nav li {
-  font-family: "Oswald";
+  font-family: 'Oswald', sans-serif;
   font-size: 20px;
   font-weight: bold;
   font-stretch: normal;
